@@ -23,7 +23,7 @@ def heart_prediction(input):
 
 
     if (prediction[0]==0):
-        return 'You are not likely to die from heart fsilure given your health conditions.'
+        return 'You are not likely to die from heart failure given your health conditions.'
     else:
         return 'You are likely to die from heart failure given your health conditions.'
 
