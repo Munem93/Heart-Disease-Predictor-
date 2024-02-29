@@ -1,6 +1,5 @@
 import streamlit as st
-import keras
-import sklearn 
+import keras 
 import pickle
 from PIL import Image
 import numpy as np
